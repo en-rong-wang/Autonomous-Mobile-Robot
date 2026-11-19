@@ -25,3 +25,22 @@ Developed a ROS 2-based autonomous mobile robot integrating LiDAR-based mapping,
   </tr>
 </table>
 
+
+A mobile robot navigates a LiDAR-mapped basement using ROS 2 Nav2, with A* for global route planning and DWA for local obstacle avoidance.
+
+https://github.com/user-attachments/assets/1f985da0-408c-414a-a2d3-f6f2ff451f1c
+
+
+
+## Tennis Ball Detection and Tracking on NVIDIA Jetson Nano
+
+Developed an onboard tennis ball tracking system for a mobile robot using an Intel RealSense depth camera and YOLOv26.
+
+- Annotated tennis ball images in Roboflow and used the resulting dataset to obtain custom YOLOv26 model weights.
+- Implemented the detection and tracking pipeline in PyTorch and deployed it on an NVIDIA Jetson Nano with CUDA-accelerated inference.
+- Combined YOLO detections with RealSense depth measurements to track the ball’s position and estimate its distance from the camera. Detection confidence reached up to 97% during testing.
+
+### Experimental Demonstration
+
+https://github.com/user-attachments/assets/73689d51-dcad-4e06-a631-b5118f9bbd1f
+
