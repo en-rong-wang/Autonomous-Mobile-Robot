@@ -28,7 +28,10 @@ Developed a ROS 2-based autonomous mobile robot integrating LiDAR-based mapping,
 
 A mobile robot navigates a LiDAR-mapped basement using ROS 2 Nav2, with A* for global route planning and DWA for local obstacle avoidance.
 
-https://github.com/user-attachments/assets/1f985da0-408c-414a-a2d3-f6f2ff451f1c
+
+https://github.com/user-attachments/assets/cadb2c05-b4f2-4bb0-a8b7-2627e3a33cd1
+
+
 
 
 
@@ -42,5 +45,9 @@ Developed an onboard tennis ball tracking system for a mobile robot using an Int
 
 ### Experimental Demonstration
 
-https://github.com/user-attachments/assets/73689d51-dcad-4e06-a631-b5118f9bbd1f
+
+
+https://github.com/user-attachments/assets/629337b3-fdf8-486e-9139-cabb3447a99d
+
+
 
