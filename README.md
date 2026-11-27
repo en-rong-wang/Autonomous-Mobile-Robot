@@ -32,6 +32,21 @@ A mobile robot navigates a LiDAR-mapped basement using ROS 2 Nav2, with A* for g
 https://github.com/user-attachments/assets/cadb2c05-b4f2-4bb0-a8b7-2627e3a33cd1
 
 
+## Gemini-Assisted Natural Language Navigation
+Integrated the Gemini API with ROS 2 nodes to interpret natural language commands entered through a human–machine interface. Using predefined waypoint coordinates (A, B, and C) stored in a ROS 2 node, Gemini translates user intent into a sequence of navigation goals. These goals are passed to the navigation stack to plan paths on an existing occupancy grid map generated using 2D LiDAR, enabling users to specify destinations and visiting order through natural language.
+
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="./LLM_path_generator.jpg" width="350"
+           alt="Gemini-assisted navigation interface">
+    </td>
+    <td width="60%" valign="top">
+      <video src="https://github.com/user-attachments/assets/a82ce1e9-69f2-4a65-a2c9-f18dbb82418c" controls width="100%"></video>
+    </td>
+  </tr>
+</table>
+
 
 
 
