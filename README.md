@@ -24,12 +24,32 @@ Developed a ROS 2-based autonomous mobile robot integrating LiDAR-based mapping,
     </td>
   </tr>
 </table>
+<h3>Related Demo</h3>
+
+<p>The following demo shows the process of building a 2D occupancy grid map of the basement using LiDAR and GMapping SLAM.</p>
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/ced84ffe-a963-4cb3-9564-d8aa02dd1965" controls width="600"></video>
+</p>
+
+
+
 
 
 A mobile robot navigates a LiDAR-mapped basement using ROS 2 Nav2, with A* for global route planning and DWA for local obstacle avoidance.
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <video src="https://github.com/user-attachments/assets/cadb2c05-b4f2-4bb0-a8b7-2627e3a33cd1
+" controls width="100%"></video>
+    </td>
+    <td width="50%" valign="top">
+      <video src="https://github.com/user-attachments/assets/01593e59-d68c-4175-b6b7-8cb63f1a8b80" controls width="100%"></video>
+    </td>
+  </tr>
+</table>
 
-https://github.com/user-attachments/assets/cadb2c05-b4f2-4bb0-a8b7-2627e3a33cd1
 
 
 ## Gemini-Assisted Natural Language Navigation
