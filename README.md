@@ -42,10 +42,13 @@ Integrated the Gemini API with ROS 2 nodes to interpret natural language command
            alt="Gemini-assisted navigation interface">
     </td>
     <td width="60%" valign="top">
-      <video src="https://github.com/user-attachments/assets/a82ce1e9-69f2-4a65-a2c9-f18dbb82418c" controls width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/14d3a8d9-6989-425d-9656-ee056425fc7f" controls width="100%"></video>
     </td>
   </tr>
 </table>
+
+
+
 
 
 
