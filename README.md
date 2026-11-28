@@ -28,9 +28,7 @@ Developed a ROS 2-based autonomous mobile robot integrating LiDAR-based mapping,
 
 <p>The following demo shows the process of building a 2D occupancy grid map of the basement using LiDAR and GMapping SLAM.</p>
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/ced84ffe-a963-4cb3-9564-d8aa02dd1965" controls width="600"></video>
-</p>
+https://github.com/user-attachments/assets/8539b31c-bf0d-4a4e-a11b-31c6925fc06b
 
 
 
